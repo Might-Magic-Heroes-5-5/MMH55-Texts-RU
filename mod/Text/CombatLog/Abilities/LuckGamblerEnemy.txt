@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source> увеличивают удачу на <value=damage> ед. <value=target> стали удачливей!

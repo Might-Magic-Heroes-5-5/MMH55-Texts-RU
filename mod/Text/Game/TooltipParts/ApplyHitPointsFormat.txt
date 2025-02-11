@@ -1,0 +1,1 @@
+﻿+<value=hit_points>%

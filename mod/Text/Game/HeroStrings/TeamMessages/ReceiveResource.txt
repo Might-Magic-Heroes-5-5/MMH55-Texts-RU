@@ -1,0 +1,1 @@
+﻿Вы получили <value=amount> ед. ресурса <value=resource> от игрока <push><value=player><pop>

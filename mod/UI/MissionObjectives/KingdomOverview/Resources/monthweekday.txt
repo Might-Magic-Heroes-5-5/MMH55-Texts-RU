@@ -1,0 +1,1 @@
+﻿<resource_info><center>Мес.: <value=month>, нед.: <value=week>, дн.: <value=day>.

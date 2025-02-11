@@ -1,0 +1,1 @@
+﻿<color=FF57311D><font face=Default size=32fx><center>Мана:<br><value=sp_current>/<value=sp_maximum>

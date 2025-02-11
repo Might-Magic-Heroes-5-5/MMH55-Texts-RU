@@ -1,0 +1,1 @@
+﻿Настройки боя <hotkey=input_combat_options>

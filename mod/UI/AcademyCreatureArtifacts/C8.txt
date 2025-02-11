@@ -1,0 +1,1 @@
+﻿<center><body_bright>Пробивание<br><color_default>Повышает нападение на: 1+3*Z/20.

@@ -1,0 +1,1 @@
+﻿The hero dissolves an artifact equipped on a friendly creatures to use the magical energy it contains to heal and resurrect the creature in combat.<br><color_default>The number of Hit Points healed is equal to 10 * (Hero Level) * (1 + X), where X is the number of effects crafted in the dissolved artifact. The hero spends 50% of his turn to dissolve the artifact.

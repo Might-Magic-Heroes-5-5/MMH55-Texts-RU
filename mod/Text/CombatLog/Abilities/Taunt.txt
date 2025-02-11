@@ -1,0 +1,1 @@
+﻿<value=target_color><value=target> дразнятся! <value=source> меняют цель!

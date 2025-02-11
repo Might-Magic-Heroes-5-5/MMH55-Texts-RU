@@ -1,0 +1,1 @@
+﻿Поменять артефакт <value=artifactold> на артефакт <value=artifactnew>?

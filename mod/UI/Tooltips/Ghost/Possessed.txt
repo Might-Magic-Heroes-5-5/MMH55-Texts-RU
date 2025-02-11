@@ -1,0 +1,1 @@
+﻿<tooltip_bright><value=color><value=player_color><tooltip_bright> игрок <value=ghost_name> захватил его

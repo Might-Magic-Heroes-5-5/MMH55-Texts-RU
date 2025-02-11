@@ -1,0 +1,1 @@
+﻿Урон: <value=damage> ед.<br>Немагический урон увеличивается на <value=damage_bonus>%.<br>Длительность: <value=duration> ходов.

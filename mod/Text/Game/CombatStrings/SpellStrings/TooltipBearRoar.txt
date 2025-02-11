@@ -1,0 +1,1 @@
+﻿<br><color_default>+<value=morale> к «Боевому духу», +<value=health>% к "Здоровью"

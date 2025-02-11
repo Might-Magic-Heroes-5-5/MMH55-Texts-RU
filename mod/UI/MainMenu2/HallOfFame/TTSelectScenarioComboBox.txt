@@ -1,0 +1,3 @@
+﻿Выбор кампании или миссии
+<center><value=category>
+<value=info> - <value=scenario>

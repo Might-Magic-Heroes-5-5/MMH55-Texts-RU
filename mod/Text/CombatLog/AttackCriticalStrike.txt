@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source> наносят «Критический Удар» (цель: <value=target>). <value=font> Урон <value=damage> ед. (погибло <value=dead> сущ.).

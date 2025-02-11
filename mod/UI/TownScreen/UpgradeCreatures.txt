@@ -1,0 +1,1 @@
+﻿<center>Улучшение существ: улучшить существ в своей армии (требуются соответствующие сооружения). <hotkey=input_upgrade_creatures><color=red><value=deny>

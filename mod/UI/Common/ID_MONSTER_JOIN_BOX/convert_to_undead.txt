@@ -1,0 +1,2 @@
+﻿<h3><value=name> (<value=count> сущ.)<br>
+<color_bright>Существа будут превращены. <color_default>(<value=undead_name> - <value=undead_count>сущ.)<color_bright>.

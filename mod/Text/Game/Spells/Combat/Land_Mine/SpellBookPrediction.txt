@@ -1,0 +1,1 @@
+﻿Размещает <value=duration> мин, наносящих <value=damage> ед. урона.

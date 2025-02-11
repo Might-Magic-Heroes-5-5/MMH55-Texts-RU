@@ -1,0 +1,1 @@
+﻿<value=source_color>«Палатка первой помощи»:<body_bright> <value=target> получили <value=damage> ед. урона от умения «Чумная палатка» (погибло: <value=dead>).

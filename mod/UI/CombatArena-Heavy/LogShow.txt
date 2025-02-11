@@ -1,0 +1,1 @@
+﻿Показать боевой журнал <hotkey=input_switch_atb_log>.

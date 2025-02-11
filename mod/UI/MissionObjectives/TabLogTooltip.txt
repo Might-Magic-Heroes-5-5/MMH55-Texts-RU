@@ -1,0 +1,1 @@
+﻿Дневник миссии <hotkey=input_adv_show_objectives_log>

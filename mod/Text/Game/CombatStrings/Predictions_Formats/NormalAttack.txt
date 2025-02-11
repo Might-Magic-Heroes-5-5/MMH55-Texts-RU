@@ -1,0 +1,1 @@
+﻿Атака: урон <value=damage> ед. (умрёт <value=kills> сущ.). <value=retaliate>

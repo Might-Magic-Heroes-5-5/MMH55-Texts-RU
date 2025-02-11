@@ -1,0 +1,1 @@
+﻿<color=yellow>Вы уже посещали этот обелиск. Вы нашли <value=amount> из <value=total> обелисков!

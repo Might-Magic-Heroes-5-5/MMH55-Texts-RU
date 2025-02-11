@@ -1,0 +1,1 @@
+﻿<smallbody><push><color_bright>Всего: <pop>+<value=total_grown><br><br><value=tail>

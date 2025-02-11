@@ -1,0 +1,1 @@
+﻿<h3><color_header><outline><center>Фаза <value=current_phase>/<value=total_phases> режима призрака закончится через <value=time> секунд

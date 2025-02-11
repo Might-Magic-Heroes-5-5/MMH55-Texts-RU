@@ -1,0 +1,1 @@
+﻿<value_value><right><value=val_min_color><value=val_min><value=separator><value=val_max_color><value=val_max>

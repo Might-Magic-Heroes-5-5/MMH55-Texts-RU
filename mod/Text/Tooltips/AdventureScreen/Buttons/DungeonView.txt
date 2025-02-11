@@ -1,0 +1,1 @@
+﻿Другой мир <hotkey=flip_floor>

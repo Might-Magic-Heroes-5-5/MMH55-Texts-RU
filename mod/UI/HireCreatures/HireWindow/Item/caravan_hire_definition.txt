@@ -1,0 +1,1 @@
+﻿<center><value_value><value=count><br><value_name> <value_value>+<value=growth><br><center><value_name><value_value>Дни:<value=days_travel>

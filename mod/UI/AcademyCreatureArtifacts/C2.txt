@@ -1,0 +1,1 @@
+﻿<center><body_bright>Удача<br><color_default>Повышает удачу на: 1+Z/20.

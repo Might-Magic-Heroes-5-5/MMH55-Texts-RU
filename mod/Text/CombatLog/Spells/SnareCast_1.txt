@@ -1,0 +1,1 @@
+﻿<value=target_color>Сработал капкан. <value=target> прошли на 2 шага меньше.

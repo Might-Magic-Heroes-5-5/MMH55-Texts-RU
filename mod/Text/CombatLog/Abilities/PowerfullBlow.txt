@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source> наносят оглушающий удар. <value=target> поражены!

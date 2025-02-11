@@ -1,0 +1,1 @@
+﻿<value=source_color>«Починка». <body_bright> <value=target> вернули <value=damage> ед. жизни (<value=dead> сущ. поднялось).

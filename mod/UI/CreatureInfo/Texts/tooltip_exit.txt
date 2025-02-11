@@ -1,0 +1,1 @@
+﻿Выйти <hotkey=bind jd_button_0>

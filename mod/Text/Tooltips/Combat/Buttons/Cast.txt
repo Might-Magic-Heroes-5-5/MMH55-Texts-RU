@@ -1,0 +1,1 @@
+﻿Сотворить заклинание <hotkey=input_Combat_Cast>

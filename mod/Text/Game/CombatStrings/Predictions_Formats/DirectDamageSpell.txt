@@ -1,0 +1,1 @@
+﻿«<value=spell>». Урон <value=damage> ед. (умрёт <value=kills> сущ.).

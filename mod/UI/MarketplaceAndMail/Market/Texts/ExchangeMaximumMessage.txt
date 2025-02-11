@@ -1,0 +1,1 @@
+﻿<body_bright>Вы действительно хотите обменять <body><value=AmountToGive> норм ресурса <value=ResourceToGive> <body><body_bright>за <body><value=AmountToGet> норм ресурса <value=ResourceToGet>?

@@ -1,0 +1,1 @@
+﻿<value=HeroClass><br>Уровень <value=HeroLevel><br><br>Опыт:

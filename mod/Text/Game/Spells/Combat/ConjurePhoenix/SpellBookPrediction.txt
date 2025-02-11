@@ -1,0 +1,1 @@
+﻿«Здоровье» феникса: <value=health> ед. «Жизни».<br>Урон: <value=min_damage> — <value=max_damage>.

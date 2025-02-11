@@ -1,0 +1,2 @@
+﻿Урон: <color=green><value=damage><color=white><br>
+Умрет: <color=red><value=kills><color=white>

@@ -1,0 +1,1 @@
+﻿<edit><forcewrap><value=from>:<color_white> <value=text>

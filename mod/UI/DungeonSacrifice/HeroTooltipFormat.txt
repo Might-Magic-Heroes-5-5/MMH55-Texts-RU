@@ -1,0 +1,1 @@
+﻿<value=hero_name><value=hero_class>

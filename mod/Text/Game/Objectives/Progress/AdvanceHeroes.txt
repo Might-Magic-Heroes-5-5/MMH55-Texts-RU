@@ -1,0 +1,1 @@
+﻿<value=number> из <value=target_number> героев достигло <value=level> уровня.

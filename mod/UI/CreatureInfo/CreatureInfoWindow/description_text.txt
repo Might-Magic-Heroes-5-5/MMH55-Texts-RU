@@ -1,0 +1,4 @@
+﻿<h3_block>Описание<br>
+<body_bright><justify><value=description><br><br>
+<h3_block>Способности<br>
+<body_bright><justify><value=abilities>

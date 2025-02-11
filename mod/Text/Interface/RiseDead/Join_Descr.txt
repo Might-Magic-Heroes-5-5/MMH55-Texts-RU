@@ -1,0 +1,5 @@
+﻿Вы можете воскресить <body_bright><value=count> сущ. (<value=name>.)<body><br>
+
+Это обойдётся в <body_bright><value=energy_needed> очк.<body> тёмной энергии.
+
+<body_bright>Воскресить их?

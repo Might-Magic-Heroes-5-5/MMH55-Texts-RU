@@ -1,0 +1,1 @@
+﻿<center>Кузница: купить боевые машины <hotkey=enter_blacksmith><color=red><value=deny>

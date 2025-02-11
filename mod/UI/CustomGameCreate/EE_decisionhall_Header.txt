@@ -1,0 +1,1 @@
+﻿<value_name>Зал Решения: <value_value><value=EE_decisionhall> никогда

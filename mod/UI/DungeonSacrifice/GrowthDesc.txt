@@ -1,0 +1,3 @@
+﻿<body_bright><value=name>
+Прирост
++<value=bonus>

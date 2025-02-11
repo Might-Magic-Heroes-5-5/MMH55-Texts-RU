@@ -1,0 +1,1 @@
+﻿<body> собрано артефактов — в наличии: <value_value><value=count>

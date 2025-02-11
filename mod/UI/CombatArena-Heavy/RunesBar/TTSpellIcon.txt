@@ -1,0 +1,2 @@
+﻿<tooltip_title><value=spell_name><br>
+<tooltip_default><value=spell_desc>

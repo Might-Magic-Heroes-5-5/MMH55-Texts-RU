@@ -1,0 +1,1 @@
+﻿Герой <value=hero> (<push><value=player><pop>) проиграл бой герою <value=with_hero> (<push><value=with_player><pop>)

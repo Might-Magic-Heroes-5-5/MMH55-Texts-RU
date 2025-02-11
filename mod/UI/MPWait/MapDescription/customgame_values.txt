@@ -1,0 +1,1 @@
+﻿<value_value><right><value=players><br><value=size><br><value=goal><br><value=difficulty><br>

@@ -1,0 +1,1 @@
+﻿<value=source_color><value=damage> ед. урона поглощено Яростью крови (<value=dead> ед. ярости потеряно).

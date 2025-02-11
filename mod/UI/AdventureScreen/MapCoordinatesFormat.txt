@@ -1,0 +1,1 @@
+﻿<left><system><font size=14><color_negative><outline><value=x>,<value=y>

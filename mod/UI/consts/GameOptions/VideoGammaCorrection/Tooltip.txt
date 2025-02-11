@@ -1,0 +1,2 @@
+﻿Гамма:<br>
+Значение: <value_value><value=value>

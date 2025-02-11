@@ -1,0 +1,1 @@
+﻿<system><color_bright><outline><right>

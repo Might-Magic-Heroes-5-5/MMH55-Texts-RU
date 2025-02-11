@@ -1,0 +1,1 @@
+﻿<value=source_color>Священный молот! Сотворение заклинания «<value=spell>». Цель: <value=target>.

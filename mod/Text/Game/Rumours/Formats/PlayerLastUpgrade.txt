@@ -1,0 +1,1 @@
+﻿<push><value=player><pop> игрок построил <value=text>.

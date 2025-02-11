@@ -1,0 +1,1 @@
+﻿<h3><color_header><outline><center>Режим призрака заканчивается через <value=time> секунд

@@ -1,0 +1,1 @@
+﻿<body>Жертвоприношение: <value=sacrifice>

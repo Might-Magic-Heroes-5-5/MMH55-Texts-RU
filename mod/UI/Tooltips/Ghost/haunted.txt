@@ -1,0 +1,1 @@
+﻿<tooltip_bright><value=color><value=player_color><tooltip_bright>Захвачено призраком игрока <value=ghost_name>.

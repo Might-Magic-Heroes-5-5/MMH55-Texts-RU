@@ -1,0 +1,1 @@
+﻿<color=FF57311D><font face=Default size=26fx><center><value=spell_name><br><value=spell_cost>

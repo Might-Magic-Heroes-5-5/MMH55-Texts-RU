@@ -1,0 +1,1 @@
+﻿<value=action_sort>: <value=action_name>. Исцелено <value=damage> ед. урона. (Воскрешено <value=kills> существ).

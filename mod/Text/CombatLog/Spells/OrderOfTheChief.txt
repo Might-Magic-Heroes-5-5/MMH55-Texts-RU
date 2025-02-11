@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source> применяют способность «Приказ вожака» (цель: <value=target>). Урон <value=damage> ед. (погибло <value=dead> сущ.).

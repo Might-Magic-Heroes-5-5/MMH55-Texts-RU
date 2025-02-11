@@ -1,0 +1,1 @@
+﻿<value_value><right><value=first_element><value=elements_separator><value=second_element>

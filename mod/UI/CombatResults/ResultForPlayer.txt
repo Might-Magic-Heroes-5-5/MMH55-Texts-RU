@@ -1,0 +1,1 @@
+﻿<left><value=player>. Результат:<br><center>

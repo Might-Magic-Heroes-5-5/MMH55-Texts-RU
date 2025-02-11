@@ -1,0 +1,1 @@
+﻿<center>Хижина путешественника <hotkey=buy_artifacts><color=red><value=deny>

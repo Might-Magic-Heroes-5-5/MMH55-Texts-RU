@@ -1,0 +1,1 @@
+﻿<value=source_color><value=target> и <value=source> восстанавливают друг другу <value=damage> ед. здоровья (ожило <value=dead> сущ.).

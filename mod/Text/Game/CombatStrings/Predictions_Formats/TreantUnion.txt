@@ -1,0 +1,1 @@
+﻿<value=target_hits>: восстановится <value=hits_received> ед. «Жизни» (воскреснет <value=resurrected> сущ.). Заклинатель получит <value=hits_received> ед. «Жизни» (воскреснет <value=caster_hits> сущ.).

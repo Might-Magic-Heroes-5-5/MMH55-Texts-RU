@@ -1,0 +1,1 @@
+﻿<h3><value=name><br><value_name>Уровень города: <value_value><value=level><br><value_name>Раса: <value_value><value=race><br><value_name>Фортификации: <value_value><value=fort>

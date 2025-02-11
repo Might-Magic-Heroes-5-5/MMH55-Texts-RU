@@ -1,0 +1,1 @@
+﻿<center>Зал испытаний: посмотреть список доступных боевых кличей<hotkey=enter_magic_guild><color=red><value=deny>

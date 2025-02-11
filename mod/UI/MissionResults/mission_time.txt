@@ -1,0 +1,4 @@
+﻿<body>Время игры: <br>
+месяцев: <value_value><value=months_count> <br>
+<value_name>недель: <value_value><value=weeks_count> <br>
+<value_name>дней: <value_value><value=days_count>

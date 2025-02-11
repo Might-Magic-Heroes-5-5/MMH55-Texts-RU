@@ -1,0 +1,1 @@
+﻿<value=name>: убито <value=number> из <value=target_number> сущ.

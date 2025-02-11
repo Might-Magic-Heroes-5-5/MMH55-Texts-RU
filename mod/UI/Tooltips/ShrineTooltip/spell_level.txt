@@ -1,0 +1,1 @@
+﻿<tooltip_bright><value=spell_level>

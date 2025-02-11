@@ -1,0 +1,1 @@
+﻿<br><value_name><value=source>: <value_value>+<value=income>

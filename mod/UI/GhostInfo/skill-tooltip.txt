@@ -1,0 +1,1 @@
+﻿<center><tooltip_title><value=name><br><body_bright><value=description><br><body>Необходимая для улучшения энергия: <value=energy>

@@ -1,0 +1,1 @@
+﻿<center>Верфь: построить корабль <hotkey=enter_shipyard><color=red><value=deny>

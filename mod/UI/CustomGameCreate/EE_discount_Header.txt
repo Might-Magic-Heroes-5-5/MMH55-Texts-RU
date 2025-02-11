@@ -1,0 +1,1 @@
+﻿<value_name>Фора ИИ: <value_value><value=EE_discount> дней

@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source> украли <value=damage> ед. маны. <value=target> в бешенстве.

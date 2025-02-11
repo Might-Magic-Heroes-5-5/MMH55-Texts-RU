@@ -1,0 +1,1 @@
+﻿<font size=16><center><value_value><value=count> <value_name>/ <value_value>+<value=growth>

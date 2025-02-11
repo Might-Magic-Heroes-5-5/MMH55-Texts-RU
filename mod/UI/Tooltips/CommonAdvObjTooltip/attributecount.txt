@@ -1,0 +1,1 @@
+﻿<value_value><right><push><value=count><color_negative><value=count_red><color_positive><value=count_green><pop><value=separator><value=max_amount>

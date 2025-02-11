@@ -1,0 +1,1 @@
+﻿<center><body_bright>Скорость<br><color_default>Повышает скорость на: 1+Z/40.

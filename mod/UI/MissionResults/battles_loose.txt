@@ -1,0 +1,1 @@
+﻿<body>Битв проиграно: <value_value><value=count>

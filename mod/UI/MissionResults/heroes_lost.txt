@@ -1,0 +1,1 @@
+﻿<body>Героев потеряно: <value_value><value=count>

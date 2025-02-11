@@ -1,0 +1,1 @@
+﻿<body><value=cur_rumor>

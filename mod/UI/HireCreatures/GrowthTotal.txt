@@ -1,0 +1,1 @@
+﻿<tooltip_default>Всего: <value_value>+<value=count>

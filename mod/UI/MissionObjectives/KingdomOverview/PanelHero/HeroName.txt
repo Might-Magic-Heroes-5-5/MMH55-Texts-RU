@@ -1,0 +1,1 @@
+﻿<system><value=HeroName>, <value=HeroClass>, <value=HeroLevel>-й уровень <value=HeroOwnerPrefix><value=HeroOwner>

@@ -1,0 +1,1 @@
+﻿Необходимая для достижения <value=next_skill_level> уровня энергия: <value=current_energy>/<value=needed_energy>

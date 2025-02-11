@@ -1,0 +1,1 @@
+﻿Герой <value=hero> получил артефакт <value=artifact> от героя <value=meet_hero> (<push><value=player><pop>)

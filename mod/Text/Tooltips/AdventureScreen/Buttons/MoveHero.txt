@@ -1,0 +1,1 @@
+﻿Переместить героя <hotkey=MB_Move_Hero>

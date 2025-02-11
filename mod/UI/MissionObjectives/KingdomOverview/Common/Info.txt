@@ -1,0 +1,1 @@
+﻿<resource_info><center><value=text>

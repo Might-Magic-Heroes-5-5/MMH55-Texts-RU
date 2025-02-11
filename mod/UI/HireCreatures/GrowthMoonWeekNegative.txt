@@ -1,0 +1,1 @@
+﻿<tooltip_default>Лунная неделя: <value_value><color_negative>-<value=count><br>

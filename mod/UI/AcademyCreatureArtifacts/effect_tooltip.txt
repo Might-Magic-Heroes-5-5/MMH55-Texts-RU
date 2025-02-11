@@ -1,0 +1,1 @@
+﻿<body><center><value=name><br><body><color=white><left><value=effect>

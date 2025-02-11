@@ -1,0 +1,1 @@
+﻿<value=WeekName><br><value=WeekDesc>

@@ -1,0 +1,1 @@
+﻿<value=prev_rumors><br><center>------------------<br><left><body><value=cur_rumor>

@@ -1,0 +1,1 @@
+﻿<center><value=text>:<br><value=town>, <value=race>

@@ -1,0 +1,1 @@
+﻿<font face=Default size=20><center><color_header>Ярость:<color_bright><value=color><value=rage_points> / <value=rage_points_max>

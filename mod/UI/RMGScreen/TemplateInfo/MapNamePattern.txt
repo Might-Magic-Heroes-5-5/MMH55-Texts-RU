@@ -1,0 +1,1 @@
+﻿<value=size> <value=level> <value=monster> <value=player> ГСК-<value=number>

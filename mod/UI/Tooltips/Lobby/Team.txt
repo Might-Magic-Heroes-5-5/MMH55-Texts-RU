@@ -1,0 +1,1 @@
+﻿<value=prev_team> х <value=team>

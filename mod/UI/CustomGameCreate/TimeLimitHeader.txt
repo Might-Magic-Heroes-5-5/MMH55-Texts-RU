@@ -1,0 +1,1 @@
+﻿<value_name>Время хода: <value_value><value=time> мин.

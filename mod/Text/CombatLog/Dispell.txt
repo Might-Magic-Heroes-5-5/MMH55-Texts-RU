@@ -1,0 +1,1 @@
+﻿<value=source_color><value=target>: заклинание «<value=spell>» развеяно.

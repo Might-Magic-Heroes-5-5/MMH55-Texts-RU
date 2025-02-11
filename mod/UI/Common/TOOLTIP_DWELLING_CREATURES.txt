@@ -1,0 +1,1 @@
+﻿<tooltip_default>На этой неделе <br> <tooltip_default>осталось <value_value><value=count><tooltip_default> из <value_value><value=max_count> <tooltip_default>существ.

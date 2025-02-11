@@ -1,0 +1,1 @@
+﻿<h4><center><color=FFC5BEA1><value=nametype>: <value=namevalue>

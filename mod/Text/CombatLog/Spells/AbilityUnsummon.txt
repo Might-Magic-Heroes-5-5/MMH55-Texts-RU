@@ -1,0 +1,1 @@
+﻿<value=source_color>«Изгнание»: нанесено <value=damage> ед. урона, изгнано <value=dead> сущ.

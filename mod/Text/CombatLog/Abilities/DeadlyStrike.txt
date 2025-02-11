@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source>:<body_bright> смертельный удар! <value=target> поражены! (умерло <value=dead> сущ.)!

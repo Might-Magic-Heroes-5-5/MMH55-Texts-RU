@@ -1,0 +1,1 @@
+﻿<value=hero_name>.<br><value=hero_class> <value=hero_level> уровня получает <value=hero_exp_to_level> ед. опыта.

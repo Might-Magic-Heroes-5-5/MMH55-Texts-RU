@@ -1,0 +1,1 @@
+﻿Атака: урон <value=damage> x <value=attacks_count> ед. (умрёт <value=kills> x <value=attacks_count> сущ.). <value=retaliate>.

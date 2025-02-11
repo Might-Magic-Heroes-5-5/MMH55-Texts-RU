@@ -1,0 +1,1 @@
+﻿<center><body_bright>Здоровье<br><color_default>Повышает здоровье на: 1+Z/6.

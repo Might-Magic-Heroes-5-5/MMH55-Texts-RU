@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source> и <value=target> вступают в симбиоз. <value=target> выздоравливают (ожило <value=dead> сущ.).

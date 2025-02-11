@@ -1,0 +1,1 @@
+﻿Урон от заклинания: <value=min_damage>-<value=max_damage> ед.

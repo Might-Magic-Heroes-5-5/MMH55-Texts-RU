@@ -1,0 +1,1 @@
+﻿<edit><push><value=player><pop>: <value=message>

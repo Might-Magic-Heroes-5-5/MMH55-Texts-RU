@@ -1,0 +1,1 @@
+﻿Обзор королевства <hotkey=input_adv_show_kingdom_overview>

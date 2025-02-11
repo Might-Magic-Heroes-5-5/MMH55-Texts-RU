@@ -1,0 +1,1 @@
+﻿Щёлкнуть по панели<br><hotkey=enter_chat> — войти в чат<br><hotkey=chat_to_all> — чат со всеми<br><hotkey=chat_to_all> — чат с командой<br><hotkey=chat_to_race> — чат с друзьями.<br>Щёлкнуть по имени игрока в чате — чат с этим игроком.

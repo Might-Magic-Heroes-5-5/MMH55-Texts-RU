@@ -1,0 +1,1 @@
+﻿<br>Невосприимчивы к элементам <value=element1>, <value=element2>.

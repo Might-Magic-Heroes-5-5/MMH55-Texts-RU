@@ -1,0 +1,1 @@
+﻿<creatures_count_small><value=colorprefix><value=prefix><value=num_of_creatures>

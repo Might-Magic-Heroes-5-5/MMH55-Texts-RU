@@ -1,0 +1,1 @@
+﻿Призовёт от <value=gating_min> до <value=gating_max> существ.

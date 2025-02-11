@@ -1,0 +1,1 @@
+﻿<body>Существ врага - в наличии: <value_value><value=count>

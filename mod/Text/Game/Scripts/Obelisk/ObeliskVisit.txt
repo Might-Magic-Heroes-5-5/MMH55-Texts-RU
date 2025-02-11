@@ -1,0 +1,1 @@
+﻿<color=yellow>Вы расшифровали <value=amount> из <value=total> обелисков!

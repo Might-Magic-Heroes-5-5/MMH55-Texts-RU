@@ -1,0 +1,1 @@
+﻿<body_bright>«Магическое сопротивление». <value=target_color><value=target>: заклинание <body_bright> «<value=spell>» отражено.

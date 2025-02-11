@@ -1,0 +1,1 @@
+﻿<value_name>Продуманность ИИ: <value_value><value=EE_lookahead>

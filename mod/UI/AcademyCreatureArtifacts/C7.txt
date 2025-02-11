@@ -1,0 +1,1 @@
+﻿<center><body_bright>Защита<br><color_default>Повышает защиту на: 1+3*Z/20.

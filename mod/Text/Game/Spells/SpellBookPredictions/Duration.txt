@@ -1,0 +1,1 @@
+﻿Заклинание <value=spell> на срок <value=duration> ход.

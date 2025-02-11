@@ -1,0 +1,1 @@
+﻿Настройки игры <color_bright>«Esc»<hotkey=input_game_options>

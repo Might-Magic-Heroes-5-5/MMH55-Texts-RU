@@ -1,0 +1,2 @@
+﻿<center><tooltip_default><tooltip_title><value=name><tooltip_default><value=strings>
+<br><br><color_default>Используйте возможность управления городом, чтобы проверить дополнительный доход для отдельных героев.

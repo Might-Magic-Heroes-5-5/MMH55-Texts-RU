@@ -1,0 +1,1 @@
+﻿<center>Конец хода <br>(<value=Day> день, <center><value=Week> неделя, <value=Month> месяц) <hotkey=JogDialButton><br><value=WeekName><br><value=WeekDesc>

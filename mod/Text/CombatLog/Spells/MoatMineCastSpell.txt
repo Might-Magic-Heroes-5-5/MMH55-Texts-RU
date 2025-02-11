@@ -1,0 +1,1 @@
+﻿<value=source_color><value=mine>: сотворение заклинания «<value=spell>». Цель: <value=target>.

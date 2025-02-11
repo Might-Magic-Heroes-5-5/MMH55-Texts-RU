@@ -1,0 +1,1 @@
+﻿Армия <hotkey=hero_attributes>

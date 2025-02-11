@@ -1,0 +1,1 @@
+﻿<smallbody><push><color_bright><value=row_name>: <pop>+<value=row_value><br><value=tail>

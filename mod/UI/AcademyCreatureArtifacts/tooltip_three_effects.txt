@@ -1,0 +1,1 @@
+﻿<body><center><value=name><br><value=effect_1><br><value=effect_2><br><value=effect_3>

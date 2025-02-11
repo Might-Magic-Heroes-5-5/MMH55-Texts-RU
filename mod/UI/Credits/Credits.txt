@@ -1,0 +1,623 @@
+﻿<credits_body><credits_body><credits_body><credits_h1>C R E D I T S
+<credits_body>
+<credits_body>
+<credits_h1>Might & Magic: Heroes 5.5
+<credits_body>
+<credits_body>
+<credits_h2>Lead Designer, Programming, Skill System, Artifacts, ARMG, Adventure Map, Campaigns
+<credits_body>
+<credits_body>Magnomagus
+<credits_body>
+<credits_h2>Lead Reverse Engineering, Reference Manual, Programming, Social Media
+<credits_body>
+<credits_body>dredknight
+<credits_body>
+<credits_h2>Skillwheel, Creaturepedia, Mixed Neutrals in Campaign, UI Improvements
+<credits_body>
+<credits_body>theGryphon
+<credits_body>
+<credits_h2>Additional Reverse Engineering
+<credits_body>
+<credits_body>Marko aka 'The way back..'
+<credits_body>Deflaktor
+<credits_body>Magnomagus
+<credits_body>
+<credits_h2>AI Programming
+<credits_body>
+<credits_body>Quantomas
+<credits_body>
+<credits_h2>Mapmixer Utility
+<credits_body>
+<credits_body>theGryphon, cichy
+<credits_body>
+<credits_h2>LUA Library
+<credits_body>
+<credits_body>RedHeavenHero
+<credits_body>
+<credits_h2>Additional Models and Textures
+<credits_body>
+<credits_body>Zobr
+<credits_body>Manulli
+<credits_body>Zahar
+<credits_body>Narron
+<credits_body>
+<credits_h2>NCF Compatibility
+<credits_body>
+<credits_body>dredknight
+<credits_body>Psatkha
+<credits_body>
+<credits_h2>UHM Compatibility
+<credits_body>
+<credits_body>Gryw
+<credits_body>
+<credits_h2>Inspirational Scripts
+<credits_body>
+<credits_body>PvP
+<credits_body>Prome7eus
+<credits_body>
+<credits_h2>Additional Text
+<credits_body>
+<credits_body>Krisys
+<credits_body>
+<credits_h2>Additional Interface Textures
+<credits_body>
+<credits_body>Cepheus
+<credits_body>
+<credits_h2>New Logo
+<credits_body>
+<credits_body>forestsnownikita
+<credits_body>
+<credits_h2>Duel Mode
+<credits_body>
+<credits_body>Skeggy
+<credits_body>
+<credits_h2>Translations
+<credits_body>
+<credits_body>Deintegro
+<credits_body>KjeraD
+<credits_body>Cohopx
+<credits_body>Uraabk
+<credits_body>Serega
+<credits_body>zepPeh
+<credits_body>Devr
+<credits_body>Antalyan
+<credits_body>dabuthegreat
+<credits_body>Mathieu Couespel
+<credits_body>Mircu
+<credits_body>Mario
+<credits_body>Evine
+<credits_body>Ak00129
+<credits_body>
+<credits_h2>Ladder Website
+<credits_body>
+<credits_body>Bulya
+<credits_body>Frogo
+<credits_body>
+<credits_h2>Special Thanks
+<credits_body>
+<credits_body>Gendbend
+<credits_body>Kalich
+<credits_body>R33VS
+<credits_body>Maxik
+<credits_body>Engels
+<credits_body>xuxo
+<credits_body>Gidoza
+<credits_body>Sfidanza
+<credits_body>CrazyPill
+<credits_body>BAD
+<credits_body>Indral
+<credits_body>Kronos1000
+<credits_body>Alexoff
+<credits_body>Belisarius
+<credits_body>Alcibiades
+<credits_body>fiur
+<credits_body>
+<credits_body>
+<credits_body>
+<credits_body>
+<credits_body>
+<credits_body>
+<credits_body>
+<credits_h1>Tribes of the East
+<credits_body>
+<credits_body>
+<credits_h1>Ubisoft
+<credits_body>
+<credits_h1>Publishing
+<credits_h2>CEO
+<credits_body>Yves Guillemot
+<credits_body>
+<credits_h2>International Production Director
+<credits_body>Christine Burgess-Quemard
+<credits_body>
+<credits_h2>International Content Director
+<credits_body>Serge Hascoet
+<credits_body>
+<credits_h2>EMEA Director
+<credits_body>Alain Corre
+<credits_body>
+<credits_h2>US Director
+<credits_body>Laurent Detoc
+<credits_body>
+<credits_body>
+<credits_body>
+<credits_h1>Production
+<credits_h2>Third party Manager
+<credits_body>Bertrand Chaverot
+<credits_body>
+<credits_h2>Executive producer
+<credits_body>Stéphane Decroix
+<credits_body>
+<credits_h2>Senior Producer
+<credits_body>Fabrice Cambounet
+<credits_body>
+<credits_h2>Producer
+<credits_body>Erwan Le Breton
+<credits_body>
+<credits_h2>Associate Producer
+<credits_body>Thomas Le Grand
+<credits_body>
+<credits_h2>Business development
+<credits_body>Fabrice Pierre-Elien
+<credits_body>
+<credits_body>
+<credits_body>
+<credits_h1>Might & Magic world development
+<credits_body>
+<credits_h2>World manager
+<credits_body>Erwan le Breton
+<credits_body>
+<credits_h2>Lead Writer
+<credits_body>Jeffrey Spock
+<credits_body>
+<credits_h2>Additional Writing (scenario and dialogs)
+<credits_body>Kurt McCLung
+<credits_body>
+<credits_h2>World development
+<credits_body>Loïc Portnoé 
+<credits_body>Guillaume Ribe
+<credits_body>
+<credits_h2>World Artist
+<credits_body>Olivier Ledroit
+<credits_body>Adrian Smith
+<credits_body>
+<credits_h2>Special Thanks
+<credits_body>Richard Dansky
+<credits_body>
+<credits_h1>Marketing
+<credits_h2>Marketing game manager
+<credits_body>Simon Vivien
+<credits_body>
+<credits_h2>Marketing coordinator
+<credits_body>Guillaume de Butler
+<credits_body>
+<credits_h2>Marketing artist
+<credits_body>Flavie Journet
+<credits_body>Olivier Ammirati
+<credits_body>
+<credits_h2>EMEA Marketing Director
+<credits_body>John Parkes
+<credits_body>
+<credits_h2>EMEA Group manager
+<credits_body>Sébastien Courmont
+<credits_body>
+<credits_h2>EMEA Brand manager
+<credits_body>Olivier Blin
+<credits_body>
+<credits_h2>EMEA Marketing assistant
+<credits_body>Alexis de Becque
+<credits_body>
+<credits_h2>US VP Marketing
+<credits_body>Tony Kee
+<credits_body>
+<credits_h2>US Marketing Director
+<credits_body>Hélène Juguet
+<credits_body>
+<credits_h2>US Group Manager
+<credits_body>Karen Conroe
+<credits_body>
+<credits_h2>US Senior Brand manager
+<credits_body>Tena Lawry
+<credits_body>
+<credits_h2>US Brand manager
+<credits_body>Nate Mordo
+<credits_body>
+<credits_h2>EMEA Group PR Manager
+<credits_body>Stéphane Vallet
+<credits_body>
+<credits_h2>EMEA PR specialist
+<credits_body>Tiphaine Locqueneux
+<credits_body>
+<credits_h2>US PR manager
+<credits_body>Cindy Lum
+<credits_body>
+<credits_h2>Germany Brand manager
+<credits_body>Michael Thielmann
+<credits_body>
+<credits_h2>UK Brand manager
+<credits_body>Phil Brannelly
+<credits_body>
+<credits_h2>France Brand manager
+<credits_body>Benoit Fouillet
+<credits_body>
+<credits_h2>Scandinavia Brand manager
+<credits_body>Jesper Lund
+<credits_body>
+<credits_h2>Italy Brand manager
+<credits_body>Stefano Rigattieri
+<credits_body>
+<credits_h2>Spain Brand manager
+<credits_body>Antonio Alonso
+<credits_body>
+<credits_h2>Holland Brand manager
+<credits_body>Michiel Verheijdt
+<credits_body>
+<credits_h2>Belgium Brand manager
+<credits_body>Xander Valkiers
+<credits_body>
+<credits_h2>Australia / New Zealand Brand manager
+<credits_body>Jemesie Christo
+<credits_body>
+<credits_h2>Swiss Brand manager
+<credits_body>Cédrick Crauzaz
+<credits_body>
+<credits_h2>Export Brand managers
+<credits_body>Rebecca Molloy
+<credits_body>Rose-Marie David
+<credits_body>
+<credits_body>
+<credits_body>
+<credits_h1>Online
+<credits_h2>EMEA Digital and Relationship Marketing group manager
+<credits_body>Ian Chambers
+<credits_body>
+<credits_h2>Online marketing manager
+<credits_body>Francisco de la Guardia
+<credits_body>
+<credits_h2>Online Services
+<credits_body>Yves Jacquier
+<credits_body>Frank Zhang
+<credits_body>Sebastien Hinse
+<credits_body>Mike Chih Chiang Chao
+<credits_body>
+<credits_h2>Online Technology Group Director
+<credits_body>Olivier Chappe
+<credits_body>
+<credits_h2>Game Service Lead
+<credits_body>Sylvain Breton
+<credits_body>
+<credits_h2>Game Service
+<credits_body>François Rochette
+<credits_body>Daniel Caune
+<credits_body>Eric Bertrand
+<credits_body>
+<credits_body>
+<credits_body>
+<credits_h1>Legal & Accounting
+<credits_h2>Legal department manager
+<credits_body>Cécile Russeil
+<credits_body>
+<credits_h2>Legal counselors
+<credits_body>Marie-Anne Boutet
+<credits_body>Mylène Joret-Bohe
+<credits_body>
+<credits_h2>Cost control
+<credits_body>Asmaa Rouissi
+<credits_body>Béatrice Pagot
+<credits_body>
+<credits_body>
+<credits_h1>Manufacturing
+<credits_h2>EMEA Manufacturing manager
+<credits_body>Josiane Valverde
+<credits_body>
+<credits_h2>EMEA Planning & POS manager
+<credits_body>Cynthia Rouilly
+<credits_body>
+<credits_h2>EMEA Logistics manager
+<credits_body>Angélique De Maio
+<credits_body>
+<credits_h2>EMEA Planning coordinator
+<credits_body>Corentin François
+<credits_body>
+<credits_h2>EMEA Manufacturing assistant
+<credits_body>Laurent Gaudy
+<credits_body>
+<credits_h2>US Production manager
+<credits_body>Josh Ostrander
+<credits_body>
+<credits_h2>US Production coordinator
+<credits_body>Alison Slavin
+<credits_body>
+<credits_h2>US Manager, manufacturing
+<credits_body>Tony Silveira
+<credits_body>
+<credits_h2>US Manager, logistics
+<credits_body>Toni Alves
+<credits_body>
+<credits_h2>US VP, operations
+<credits_body>Rich Kubiszewski
+<credits_body>
+<credits_h2>IS manager
+<credits_body>Benoit Mauret-Bouy
+<credits_body>
+<credits_body>
+<credits_body>
+<credits_h1>Music
+<credits_h2>Music supervisor
+<credits_body>Sylvain Brunet
+<credits_body>
+<credits_body> 
+<credits_h2>Original score
+<credits_body>Rob King
+<credits_body>Paul Romero
+<credits_body>
+<credits_body>
+<credits_body>
+<credits_h2>Sound & voices
+<credits_h2>Creative studio manager
+<credits_body>Karen Vernimmen
+<credits_body>
+<credits_h2>Project manager
+<credits_body>Anne Langourieux
+<credits_body>
+<credits_h2>Sound Engineers
+<credits_body>Martin Dutasta
+<credits_body>Franck Rubio
+<credits_body>Blandine Roussel
+<credits_body>Theophile Josso
+<credits_body>
+<credits_body>
+<credits_h2>English Voice Artistic direction
+<credits_body>Rob King
+<credits_body>
+<credits_h2>Sound Recordist & Dialogue editor
+<credits_body>Rob King
+<credits_body>
+<credits_h2>English Voice Casting
+<credits_body>Rob King & Chris Borders
+<credits_body>
+<credits_body> 
+<credits_h2>Dialogue Director
+<credits_body>Rob King
+<credits_body>
+<credits_h2>English voice actors
+<credits_body>Anna Graves
+<credits_body>April Stewart
+<credits_body>Bob Joles
+<credits_body>Chuck McCann
+<credits_body>Cornelia O'Herlihy
+<credits_body>Dave Wittenberg
+<credits_body>Fred Tatasciore
+<credits_body>John Cramer
+<credits_body>Kirk Thornton
+<credits_body>Lex Lang
+<credits_body>Michael Sorich
+<credits_body>Neil Dickson
+<credits_body>Peter Renaday
+<credits_body>Michael McConnahie
+<credits_body>Quinton Flynn
+<credits_body>Richard Epcar
+<credits_body>Sarah Sido
+<credits_body>Steve Blum
+<credits_body>Wendee Lee
+<credits_body>
+<credits_body>
+<credits_h1>Localization
+<credits_h2>Localization studio manager
+<credits_body>Coralie Martin
+<credits_body>
+<credits_h2>Localization group manager
+<credits_body>Anne Perreau
+<credits_body>
+<credits_h2>Localization managers
+<credits_body>Loïc Jacolin
+<credits_body>Laure Bouffard
+<credits_body>
+<credits_h2>- French localization -
+<credits_body>Translation and tests
+<credits_body>Words of Magic
+<credits_body>
+<credits_h2>Voice Project Manager
+<credits_body>Laurent Rigal
+<credits_body>
+<credits_h2>Sound Engineers
+<credits_body>Frederic Devanlay 
+<credits_body>Eric Donnart
+<credits_body>Frédéric Commeault
+<credits_body>
+<credits_h2>Recorded at:
+<credits_body>Big Wheels
+<credits_body>
+<credits_h2>Actors’ direction
+<credits_body>Thierry Kazazian
+<credits_body>
+<credits_h2>Actors
+<credits_body>Sylvain Lemarié
+<credits_body>Serge Thiriet
+<credits_body>Thierry Kazazian
+<credits_body>Sybille Tureau
+<credits_body>Susan Sindberg
+<credits_body>Patrice Melennec
+<credits_body>Fabien Jacquelin
+<credits_body>Eric Peter
+<credits_body>Gilbert Levy
+<credits_body>Alain Floret
+<credits_body>Philippe Dumont
+<credits_body>Pierre Tessier
+<credits_body>Jean Lescot
+<credits_body>Emmanuel Gradi
+<credits_body>Florence Dumortier
+<credits_body>Yann Pichon
+<credits_body>Claudine Gremy
+<credits_body>Bruno Magne
+<credits_body>Antoine Tomé
+<credits_body>Nathalie Duong
+<credits_body>Christian Pelissier
+<credits_body>
+<credits_h2>- Italian localization -
+<credits_body>Orange Studio
+<credits_body>
+<credits_h2>Project management
+<credits_body>Gabriele Vegetti
+<credits_body>
+<credits_h2>Translation
+<credits_body>Alessandro 'Pitone' Seccafieno
+<credits_body>Antonio Vaccarino
+<credits_body>
+<credits_h2>Tests
+<credits_body>Antonio Vaccarino
+<credits_body>Gian Maria Battistini
+<credits_body>
+<credits_h2>- German localization -
+<credits_body>Ubisoft GmbH
+<credits_body>
+<credits_h2>Project management
+<credits_body>Dieter Pfeil
+<credits_body>Stefan Dinger
+<credits_body>
+<credits_h2>Actor’s direction
+<credits_body>Dieter Pfeil
+<credits_body>Anna van Tetterode
+<credits_body>
+<credits_h2>Actors
+<credits_body>Anja Niederfahrenhorst
+<credits_body>Caroline Keufen
+<credits_body>Christina Harz
+<credits_body>Daniel Werner
+<credits_body>Daniela Eichhorn
+<credits_body>Dieter Maise
+<credits_body>Ernst-August Scheppman
+<credits_body>Frank Hilsamer
+<credits_body>H.G. Kilbinger
+<credits_body>Hans Beyer
+<credits_body>Hans Holzbecher
+<credits_body>Höppner
+<credits_body>Ilya Welter
+<credits_body>Ingo Schmoll
+<credits_body>Karl-Heinz Tafel
+<credits_body>Markus Pfeiffer
+<credits_body>Matthias Haase
+<credits_body>Normann Matt
+<credits_body>Oliver Schnelker
+<credits_body>Renier Baaken
+<credits_body>Rolf Berg
+<credits_body>Sylvia Heid
+<credits_body>Tom Jacobs
+<credits_body>Tom Zahner
+<credits_body>Vittorio Alfieri
+<credits_body>Volker Niederfahrenhorst
+<credits_body>Volker Wolf
+<credits_body>
+<credits_h2>Translation
+<credits_body>Christian ’Jolly Joker’ Jentzsch
+<credits_body>
+<credits_h2>Tests
+<credits_body>Christian ’Jolly Joker’ Jentzsch
+<credits_body>
+<credits_h2>- Spanish localization -
+<credits_body>Betafix Services
+<credits_body>
+<credits_h2>Project management
+<credits_body>Nancy Niddam
+<credits_body>
+<credits_h2>Translation
+<credits_body>Jesús García Corredera
+<credits_body>Salvador Tintoré
+<credits_body>
+<credits_h2>Tests
+<credits_body>Jesús García Corredera
+<credits_body>
+<credits_h2>Recording Studio
+<credits_body>Best Digital
+<credits_body>
+<credits_h2>Sound Engineers
+<credits_body>Víctor Castillo
+<credits_body>Ismael Yagüe
+<credits_body>
+<credits_h2>Actors’ direction
+<credits_body>Rafael Gómez Rodríguez
+<credits_body>
+<credits_h2>Actors
+<credits_body>Agbeth: Cholo Moratall
+<credits_body>Gotai: Peyo García
+<credits_body>Kujin: Yolanda Quesada
+<credits_body>Kunyak: Pedro Tena
+<credits_body>Ornella: Yolanda Pérez
+<credits_body>Quroq: Fernando Elegido
+<credits_body>Red Knight: Peyo garcía
+<credits_body>Freyda:  Isabel Fernández
+<credits_body>Arantir: Gabriel Jiménez
+<credits_body>Duncan: Gabriel Jiménez
+<credits_body>Wulfstan: Carlos Ysbert
+<credits_body>Alaric: Héctor Cantolla
+<credits_body>Laszlo: Iñaki Crespo
+<credits_body>Agrael/Raelag: Luís Bajo
+<credits_body>Isabel-Biara: María José Nieto
+<credits_body>Godric: Juan A. Gálvez
+<credits_body>Ylaya: Conchi López
+<credits_body>Tieru: José Padilla
+<credits_body>Hangvul: José Padilla
+<credits_body>Demon Sovereing: Pablo Adam
+<credits_body>Zehir: Juan Logar
+<credits_body>
+<credits_body>
+<credits_body>
+<credits_body>
+<credits_h1>Quality Assurance
+<credits_body>
+<credits_h1>Ubisoft
+<credits_body> 
+<credits_h2>QA Manager
+<credits_body>Marius Tudorel Potirniche
+<credits_body> 
+<credits_h2>Lead Tester
+<credits_body>Liviu Galateanu
+<credits_body> 
+<credits_h2>Platform Specialist Manager
+<credits_body>Mircea Nutu
+<credits_body> 
+<credits_h2>Platform Specialist
+<credits_body>Ionut Preda
+<credits_body> 
+<credits_h2>Data Manager
+<credits_body>Marius Mardale
+<credits_body> 
+<credits_h2>Hardware Manager
+<credits_body>Bogdan Maniosu
+<credits_body> 
+<credits_h1>Revo Solutions
+<credits_body> 
+<credits_h2>Lead Tester
+<credits_body>Vlad “eNDril” Olteanu 
+<credits_body> 
+<credits_h2>Lead Assistant
+<credits_body>Constantin “Berserker” Schohterus
+<credits_body> 
+<credits_h2>Testers
+<credits_body>Adrian Madalin Predescu
+<credits_body>Adrian “Marmo” Mateescu
+<credits_body>Alexandru George “Garidu” Dragoiu
+<credits_body>Alexandru “Jhonny” Gröling
+<credits_body>Constantin “Berserker” Schohterus
+<credits_body>Dragos “Trooper” Dulhaz
+<credits_body>Dragos “Zdraven” Savu
+<credits_body>Eduard Teodorescu
+<credits_body>Gabriel “Spartacus” Manolache
+<credits_body>Ilie “Modjo” Dumitru
+<credits_body>Laurentiu Patrichi
+<credits_body>Liviu Cristian “Bob” Damian 
+<credits_body>Liviu “John Wayne” Fotea
+<credits_body>Marius “Alucard” Anton
+<credits_body>Mihai Alexandru Chiru
+<credits_body>Mihai “Gushteru” Glaveanu
+<credits_body>Mihail Gröling
+<credits_body> 
+<credits_h2>Hardware Specialist
+<credits_body>Constantin Schohterus
+<credits_body>
+<credits_body>
+<credits_h2>Compatibility tests
+<credits_body>David Levesque
+<credits_body>Martial Antoine
+<credits_body>
+<credits_body>

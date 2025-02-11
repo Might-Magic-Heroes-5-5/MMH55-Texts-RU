@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source> и <value=target> вступают в симбиоз. Восстановилось <value=damage> ед. «Здоровья» (ожило <value=dead> сущ.).

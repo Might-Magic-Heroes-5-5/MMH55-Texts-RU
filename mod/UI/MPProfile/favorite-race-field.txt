@@ -1,0 +1,1 @@
+﻿<key_value_name>Любимая раса: <key_value_value><value=favrace>

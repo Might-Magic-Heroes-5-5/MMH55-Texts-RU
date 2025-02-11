@@ -1,0 +1,1 @@
+﻿<value_name>Умения: <value_value><value=abilities>

@@ -1,0 +1,1 @@
+﻿Сведения о городе <hotkey=show_town_info>

@@ -1,0 +1,1 @@
+﻿Герой <value=hero> научился новому заклинанию <value=spell> у героя <value=meet_hero>(<push><value=player><pop>)

@@ -1,0 +1,1 @@
+﻿<br><center><value_value><font size=13><value=current_energy> / <value=total_energy>

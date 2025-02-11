@@ -1,0 +1,1 @@
+﻿Провидец заинтересован в <color=white><value=qty> <value=type><color_default> которые у Вас есть. Хотите ли Вы отдать их?

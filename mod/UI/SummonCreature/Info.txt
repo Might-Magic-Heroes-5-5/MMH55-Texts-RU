@@ -1,0 +1,1 @@
+﻿<h3>Город: <value=town_name>, мана: <value=mana>

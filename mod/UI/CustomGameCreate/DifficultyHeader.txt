@@ -1,0 +1,1 @@
+﻿<value_name>Сложность: <value_value><value=difficulty>

@@ -1,0 +1,1 @@
+﻿<br>Вражеские приведения потеряли очки на следующих навыках:<br><value=skill_name><color_negative>-<value=skill_lost><color_default>

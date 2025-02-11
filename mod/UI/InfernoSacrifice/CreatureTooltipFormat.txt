@@ -1,0 +1,1 @@
+﻿<value=creature_name> получают за жертвоприношение <value=creature_exp> ед. опыта.

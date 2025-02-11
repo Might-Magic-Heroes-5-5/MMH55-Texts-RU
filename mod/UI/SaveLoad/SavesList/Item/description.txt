@@ -1,0 +1,1 @@
+﻿<body_bright><color=FFFEF2E4><value=thour>:<value=tminute> <value=tday>/<value=tmonth>/<value=tyear>

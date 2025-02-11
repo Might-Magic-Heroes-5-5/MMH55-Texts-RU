@@ -1,0 +1,1 @@
+﻿<body_bright><center><value=time_min>:<value=time_sec>

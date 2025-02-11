@@ -1,0 +1,1 @@
+﻿<tooltip_default>Жертвоприношение: <value_value><color_positive>+<value=count><br>

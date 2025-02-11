@@ -1,0 +1,2 @@
+﻿Действие не удалось
+В службе ubi.com <value=ServiceName> произошла ошибка <value=ErrorCode>

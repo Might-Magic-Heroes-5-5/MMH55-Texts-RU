@@ -1,0 +1,1 @@
+﻿<tooltip_default><color_negative>Усовершенствование на этой карте запрещено.

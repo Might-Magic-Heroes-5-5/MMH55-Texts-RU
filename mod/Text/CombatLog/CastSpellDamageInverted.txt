@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source>: сотворение заклинания «<value=spell>». Цель: <value=target>.<value=font>Восстановлено <value=damage> ед. жизни (ожило <value=dead> сущ.).

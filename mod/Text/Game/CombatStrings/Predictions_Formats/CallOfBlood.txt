@@ -1,0 +1,1 @@
+﻿Заклинание: «<value=spell>». Цель: <value=target>. Добавлено <value=rp> ед. «Ярости».

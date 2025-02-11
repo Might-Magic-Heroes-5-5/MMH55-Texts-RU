@@ -1,0 +1,1 @@
+﻿<value=source_color><value=target> обожжены кислотой из ран гидры: урон <value=damage> ед. (погибло <value=dead> сущ.)

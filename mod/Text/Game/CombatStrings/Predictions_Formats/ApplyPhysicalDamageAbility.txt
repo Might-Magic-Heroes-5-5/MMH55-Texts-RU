@@ -1,0 +1,1 @@
+﻿Использовано заклинание «<value=spell>». Урон: <value=damage> ед. (Убито: <value=kills> сущ.). <value=retaliate>

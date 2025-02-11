@@ -1,0 +1,2 @@
+﻿<tooltip_title><value=name><br>
+<tooltip_bright><value=desc>

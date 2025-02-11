@@ -1,0 +1,1 @@
+﻿<value=cursetype> развеяно. (Призрак: <value=ghostname>, игрок: <value=ghostplayer>).

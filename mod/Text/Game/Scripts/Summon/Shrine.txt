@@ -1,0 +1,1 @@
+﻿<color=green>Когда ваш драгоценный камень растворился <value=num> <value=upgtype>s были вызваны!

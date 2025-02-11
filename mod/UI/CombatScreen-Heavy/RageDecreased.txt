@@ -1,0 +1,1 @@
+﻿<flying_signs_blood_rage><color_blood_rage>-<value=delta>

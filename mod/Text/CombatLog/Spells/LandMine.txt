@@ -1,0 +1,1 @@
+﻿<value=target_color>«Огненная ловушка». <value=target><body_bright> получили <value=damage> ед. урона (погибло: <value=dead>).

@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source>: удар холодом. <value=target> получили <value=damage> ед. урона (умерло <value=dead> сущ.).

@@ -1,0 +1,1 @@
+﻿<body><center><color=red><value=red_val><color=white><value=normal_val>

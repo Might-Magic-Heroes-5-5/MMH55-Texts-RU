@@ -1,0 +1,1 @@
+﻿<push><value=PlayerName><pop> думает

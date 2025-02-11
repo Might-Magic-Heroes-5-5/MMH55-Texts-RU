@@ -1,0 +1,1 @@
+﻿<value=cursetype> вашего призрака <value=ghostname> рассеяно призраком <value=dispellername>, которым управляет <push><value=playername><pop>.<value=skill0><value=skill1><value=skill2><value=skill3><value=skill4><value=skill5>

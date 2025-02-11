@@ -1,0 +1,2 @@
+﻿Скорость существ:<br>
+Значение: <value_value><value=value>

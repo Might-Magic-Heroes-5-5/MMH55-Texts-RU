@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source> атакует используя свою специализацию. <value=target><value=font> получили урон <value=damage> ед. (погибло <value=dead> сущ.).

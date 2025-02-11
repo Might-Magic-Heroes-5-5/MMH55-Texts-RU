@@ -1,0 +1,1 @@
+﻿<tooltip_header>Носит артефакт<br><tooltip_bright><value=artifactdesc>

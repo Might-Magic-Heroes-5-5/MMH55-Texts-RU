@@ -1,0 +1,1 @@
+﻿hero_close_after_roar

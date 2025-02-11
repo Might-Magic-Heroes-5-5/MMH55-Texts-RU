@@ -1,0 +1,1 @@
+﻿<body_bright><right><value=minskill> / <value=maxskill>

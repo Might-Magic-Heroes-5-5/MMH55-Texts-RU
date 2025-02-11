@@ -1,0 +1,1 @@
+﻿<value=source_color><value=target> принесены в жертву, <value=source> получили <value=damage> маны.

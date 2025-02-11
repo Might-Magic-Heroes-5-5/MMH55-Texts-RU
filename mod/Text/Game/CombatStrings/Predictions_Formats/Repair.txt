@@ -1,0 +1,1 @@
+﻿Восстановится <value=hits_received> ед. «Жизни» (<value=resurrected> встанут в строй).

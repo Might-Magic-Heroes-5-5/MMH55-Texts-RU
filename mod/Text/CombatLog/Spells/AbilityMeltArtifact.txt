@@ -1,0 +1,1 @@
+﻿<value=source_color><value=target> отдают артефакт. <value=source> его поглощает. <body_bright> Получено <value=damage> ед. маны.

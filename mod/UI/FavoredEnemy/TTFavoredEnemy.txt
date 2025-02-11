@@ -1,0 +1,1 @@
+﻿<tooltip_title><center>Вашими заклятыми врагами будут следующие существа<br><tooltip_bright><value=creature1><br><value=creature2><br><value=creature3>

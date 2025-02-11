@@ -1,0 +1,1 @@
+﻿<color_positive>Собрано <flying_signs><value=heads_collected> голов.

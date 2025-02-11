@@ -1,0 +1,2 @@
+﻿<value=dispellername>: <value=cursetype> призрака <value=ghostname>, которым управляет <push><value=ghostplayername><pop>, рассеяно.
+<value=enemy_skill0><value=enemy_skill1><value=enemy_skill2><value=enemy_skill3><value=enemy_skill4><value=enemy_skill5>

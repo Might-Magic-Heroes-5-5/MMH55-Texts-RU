@@ -1,0 +1,1 @@
+﻿<body><left>Игроки: <right><value=players><br><left>Размер: <right><value=size><br><left>Цель: <right><value=goal><br><left>Сложность: <right><value=difficulty><br>

@@ -1,0 +1,1 @@
+﻿<value_name>Нейтральные Герои: <value_value><value=EE_mercenaries>

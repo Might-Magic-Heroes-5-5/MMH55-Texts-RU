@@ -1,0 +1,1 @@
+﻿<center><value=special> <hotkey=input_enter_special> <color_negative><value=deny>

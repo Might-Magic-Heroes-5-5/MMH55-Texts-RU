@@ -1,0 +1,1 @@
+﻿<center>Гильдия магов: посмотреть список доступных заклинаний <hotkey=enter_magic_guild><color=red><value=deny>

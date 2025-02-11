@@ -1,0 +1,1 @@
+﻿<tooltip_default>Требуемый уровень города: <value_value><color_negative><value=red_val><value_value><value=normal_val>

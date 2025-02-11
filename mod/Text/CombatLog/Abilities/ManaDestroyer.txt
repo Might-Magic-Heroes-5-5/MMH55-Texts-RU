@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source> нанесли удар. <value=target> потеряли <value=damage> ед. маны.

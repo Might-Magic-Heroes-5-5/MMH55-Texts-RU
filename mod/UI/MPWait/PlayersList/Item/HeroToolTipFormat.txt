@@ -1,0 +1,1 @@
+﻿<color=green>Имя: <value=heroname><color=white><br><value=herospecialisation>

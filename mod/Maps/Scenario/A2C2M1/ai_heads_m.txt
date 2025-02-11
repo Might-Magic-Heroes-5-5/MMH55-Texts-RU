@@ -1,0 +1,1 @@
+﻿У соперника Готая сейчас <value=ai_heads_collected> голов. Сам Готай собрал <value=gotai_heads_collected> голов.

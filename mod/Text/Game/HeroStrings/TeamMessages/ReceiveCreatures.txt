@@ -1,0 +1,1 @@
+﻿Герой <value=hero> получил <value=amount> сущ. (<value=creature>) от героя <value=meet_hero> (<push><value=player><pop>)

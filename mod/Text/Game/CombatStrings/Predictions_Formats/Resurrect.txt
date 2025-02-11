@@ -1,0 +1,1 @@
+﻿<value=target>: восстановится <value=hits_received> ед. «Жизни» (воскреснет: <value=resurrected> сущ.).

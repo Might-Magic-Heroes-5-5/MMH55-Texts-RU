@@ -1,0 +1,1 @@
+﻿Колдовская книга <hotkey=SpellBookWindow>

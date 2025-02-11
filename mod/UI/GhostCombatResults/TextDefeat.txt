@@ -1,0 +1,3 @@
+﻿Призрак <value=winnername>, которым управлял <push><value=winnerplayername><pop>, победил призрака <value=losername>. Последний вернулся в ближайший замок.
+<value=skill0><value=skill1><value=skill2><value=skill3><value=skill4><value=skill5>
+<value=enemy_skill0><value=enemy_skill1><value=enemy_skill2><value=enemy_skill3><value=enemy_skill4><value=enemy_skill5>

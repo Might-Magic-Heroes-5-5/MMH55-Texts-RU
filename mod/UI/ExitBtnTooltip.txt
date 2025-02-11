@@ -1,0 +1,1 @@
+﻿<center>Выйти<br><center>(<value=Day> день, <value=Week> неделя, <value=Month> месяц)<br><value=WeekName> <hotkey=bind jd_button_0>

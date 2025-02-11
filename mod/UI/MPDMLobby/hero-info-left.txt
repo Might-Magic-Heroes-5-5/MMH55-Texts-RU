@@ -1,0 +1,1 @@
+﻿<body><value=name><br><value_value><value=class><br><value=level> уровень

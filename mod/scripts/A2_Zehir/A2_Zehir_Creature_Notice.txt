@@ -1,0 +1,1 @@
+﻿<value=CreatureName> (<value=CreatureCount> сущ.) за <value=ResName> мер <value=ResCount> и <value=Exp> ед. опыта.

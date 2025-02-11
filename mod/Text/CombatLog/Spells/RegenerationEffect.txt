@@ -1,0 +1,1 @@
+﻿<value=target_color><value=target> регенерировали <value=damage> ед. жизни.

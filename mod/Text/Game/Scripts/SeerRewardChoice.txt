@@ -1,0 +1,4 @@
+﻿Выберите вашу награду
+
+OK = <value=qty_a> <value=type_a>
+Отмена = <value=qty_b> <value=type_b>

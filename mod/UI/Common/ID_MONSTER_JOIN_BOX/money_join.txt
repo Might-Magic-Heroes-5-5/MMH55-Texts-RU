@@ -1,0 +1,2 @@
+﻿<h3><value=name> (<value=count> сущ.)<br>
+<body><color_bright>Существа хотят присоединиться за <color_default><value=cost> золотых<color_bright>. Принять их?

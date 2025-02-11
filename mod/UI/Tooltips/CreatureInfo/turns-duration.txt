@@ -1,0 +1,1 @@
+﻿Ходов: <value=val>/<value=maxval>

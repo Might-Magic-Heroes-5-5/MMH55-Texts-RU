@@ -1,0 +1,1 @@
+﻿<tooltip_default>Таверна: найм героев, получение сведений о других игроках.<hotkey=enter_tavern> <color=red><value=deny>

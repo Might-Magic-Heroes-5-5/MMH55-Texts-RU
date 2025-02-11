@@ -1,0 +1,1 @@
+﻿<value_value><right><value=value_normal><color_negative><value=value_red><color_positive><value=value_green>

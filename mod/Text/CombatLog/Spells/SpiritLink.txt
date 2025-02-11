@@ -1,0 +1,1 @@
+﻿<value=target_color>«Духовная связь»:<body_bright> <value=source> испытывают боль. <value=target> за это получают <value=damage> ед. маны.

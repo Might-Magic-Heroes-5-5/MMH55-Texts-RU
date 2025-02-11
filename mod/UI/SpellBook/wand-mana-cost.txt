@@ -1,0 +1,1 @@
+﻿<value=charges_cur>/<value=charges_max>

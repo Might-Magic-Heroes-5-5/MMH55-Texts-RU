@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source>: стихийный удар («<value=spell>»). <value=target> получили урон (<value=damage>).

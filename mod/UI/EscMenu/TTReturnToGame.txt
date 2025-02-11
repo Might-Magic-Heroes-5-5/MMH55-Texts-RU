@@ -1,0 +1,1 @@
+﻿Вернуться в игру <hotkey=close_menu>

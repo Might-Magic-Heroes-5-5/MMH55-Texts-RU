@@ -1,0 +1,1 @@
+﻿<center> Купить артефакты <hotkey=buy_artifacts><color=red><value=deny>

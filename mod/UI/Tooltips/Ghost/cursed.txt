@@ -1,0 +1,1 @@
+﻿<body><center>Его проклял <value=color><value=player_color><body> игрок <value=ghost_name>

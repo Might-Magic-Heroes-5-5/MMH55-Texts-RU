@@ -1,0 +1,1 @@
+﻿<h2><color_title>Поднятые существа: <value=count>

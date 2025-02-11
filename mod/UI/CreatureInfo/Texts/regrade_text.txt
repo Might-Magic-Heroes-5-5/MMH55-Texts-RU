@@ -1,0 +1,1 @@
+﻿Вы точно хотите переделать существо типа <value=current_creature> в существо типа <value=target_creature> по цене:

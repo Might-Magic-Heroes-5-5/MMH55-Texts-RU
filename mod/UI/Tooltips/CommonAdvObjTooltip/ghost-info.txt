@@ -1,0 +1,1 @@
+﻿<push><value=ghost_name> управляется игроком по имени <outline><value=player_name><pop>

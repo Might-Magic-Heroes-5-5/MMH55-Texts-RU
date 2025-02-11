@@ -1,0 +1,1 @@
+﻿<dots><body_bright><value=FieldText><body><value=FieldText_gray>

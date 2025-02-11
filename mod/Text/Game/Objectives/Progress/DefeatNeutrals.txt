@@ -1,0 +1,1 @@
+﻿Повержено <value=number> из <value=target_number> сущ.

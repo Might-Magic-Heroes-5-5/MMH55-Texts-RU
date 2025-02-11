@@ -1,0 +1,1 @@
+﻿<center><body_bright>Инициатива<br><color_default>Повышает инициативу на: (1+Z/2)%.

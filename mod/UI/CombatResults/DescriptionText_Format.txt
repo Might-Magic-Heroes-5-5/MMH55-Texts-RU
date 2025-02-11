@@ -1,0 +1,1 @@
+﻿<body_bright><center><push><value=player_hint><pop><value=val><br><value=no_army>

@@ -1,0 +1,1 @@
+﻿<value=source_color>«Возложение рук». <body_bright><value=target> вернули <value=damage> ед. жизни (воскрешено: <value=dead>).

@@ -1,0 +1,1 @@
+﻿, <value=skill_name> <color_negative>-<value=skill_lost><color_default>

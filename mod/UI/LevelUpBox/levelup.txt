@@ -1,0 +1,1 @@
+﻿<h3><value=name><br><value=profession> <value=level> уровня.<br><body_bright>Герой может улучшить свои навыки и приобрести новые умения.

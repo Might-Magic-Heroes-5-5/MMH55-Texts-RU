@@ -1,0 +1,1 @@
+﻿Исцеляет <value=target_hits> ед. «Жизни» (воскреснет <value=target_resurrected> сущ.). Заклинатель получит  <value=caster_hits> ед. «Жизни» (воскреснет <value=caster_resurrected> сущ.).

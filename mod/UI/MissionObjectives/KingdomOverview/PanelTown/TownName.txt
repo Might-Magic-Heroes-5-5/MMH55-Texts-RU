@@ -1,0 +1,1 @@
+﻿<system><value=TownName>, <value=TownLevel>-й уровень<value=TownOwnerPrefix><value=TownOwner>

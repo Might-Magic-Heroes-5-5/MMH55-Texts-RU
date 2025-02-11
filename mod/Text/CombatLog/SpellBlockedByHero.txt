@@ -1,0 +1,1 @@
+﻿<value=source_color><value=target> использует «Чёрный список».<body_bright> <value=source> не может использовать заклинание «<value=spell>».

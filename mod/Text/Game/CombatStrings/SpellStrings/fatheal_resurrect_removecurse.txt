@@ -1,0 +1,1 @@
+﻿Исцелено <value=hits_received> ед. «Жизни» и сняты проклятия (воскрешено: <value=resurrected>).

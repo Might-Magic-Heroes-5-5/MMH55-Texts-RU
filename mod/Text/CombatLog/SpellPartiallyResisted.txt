@@ -1,0 +1,1 @@
+﻿<body_bright>«Сопротивление магии»: <value=target_color><value=target> частично отражено «<value=spell>».

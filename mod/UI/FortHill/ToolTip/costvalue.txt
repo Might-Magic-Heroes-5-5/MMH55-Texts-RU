@@ -1,0 +1,1 @@
+﻿<price><value=value><price><color_negative><value=valuered>

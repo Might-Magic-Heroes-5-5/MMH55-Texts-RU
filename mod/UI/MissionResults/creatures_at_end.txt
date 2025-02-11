@@ -1,0 +1,1 @@
+﻿<body>Существ набрано - в наличии: <value_value><value=count>

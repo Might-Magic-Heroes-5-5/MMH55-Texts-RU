@@ -1,0 +1,1 @@
+﻿<center>Покинуть город<br><center>(<value=Day> день, <value=Week> неделя, <value=Month> месяц)<br><value=WeekName><br><value=WeekDesc> <hotkey=close_town>

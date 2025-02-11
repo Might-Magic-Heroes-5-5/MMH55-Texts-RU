@@ -1,0 +1,1 @@
+﻿Вы действительно хотите отправить <value=Amount> норм ресурса <value=Resource> игроку <value=SendTo>?

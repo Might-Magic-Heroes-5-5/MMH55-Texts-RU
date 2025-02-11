@@ -1,0 +1,1 @@
+﻿<value=target_color>«Битва до последнего!» <value=font><value=target> избежали смерти с 1 ед. жизни.

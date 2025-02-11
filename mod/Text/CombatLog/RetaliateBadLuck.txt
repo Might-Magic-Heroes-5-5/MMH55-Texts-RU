@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source>: неудачная контратака. <value=target> получили <value=font><value=damage> ед. урона (погибло: <value=dead>).

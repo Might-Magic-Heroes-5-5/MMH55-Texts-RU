@@ -1,0 +1,1 @@
+﻿Бежать/Сдаться. <hotkey=input_Combat_Retreat>

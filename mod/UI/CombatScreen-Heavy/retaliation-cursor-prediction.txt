@@ -1,0 +1,1 @@
+﻿<br>Отпор: <value=retaliate_cursor>

@@ -1,0 +1,1 @@
+﻿<value=player1> пр. <value=player2>

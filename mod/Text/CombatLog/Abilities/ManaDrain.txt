@@ -1,0 +1,1 @@
+﻿<value=source_color><value=source> вытягивают ману. <value=target> потеряли <body_bright><value=damage> ед. маны.

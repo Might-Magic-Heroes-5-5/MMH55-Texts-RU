@@ -1,0 +1,1 @@
+﻿<creatures_count><center><value=count>

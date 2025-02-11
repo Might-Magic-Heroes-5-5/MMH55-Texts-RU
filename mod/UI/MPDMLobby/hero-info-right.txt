@@ -1,0 +1,1 @@
+﻿<value_name>Существ в армии:<tab><value_value><value=armysize><br><value_name>Артефакты:<tab><tab><tab><value_value><value=artifacts><br><value_name>Известные заклинания:<tab><tab><value_value><value=spells>
