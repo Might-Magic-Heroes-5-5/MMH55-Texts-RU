@@ -1,1 +1,1 @@
-﻿<color=yellow>Ваши «Знания» навсегда увеличены на +<value=param>.
+﻿<color=yellow>Ваше «Знание» навсегда увеличено на +<value=param>.

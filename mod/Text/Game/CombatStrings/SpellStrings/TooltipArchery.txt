@@ -1,1 +1,1 @@
-﻿<color_default>+<value=archery>% дальнего урона
+﻿<color_default>+<value=archery>% к дальнобойному урону.
