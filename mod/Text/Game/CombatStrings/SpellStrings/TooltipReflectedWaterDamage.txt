@@ -1,1 +1,1 @@
-﻿<color_default>Отражает <value=damage>% урона стихии воды у атакующих в ближнем бою.
+﻿<color_default>Отражает <value=damage>% урона водой в ближнем бою

@@ -1,1 +1,1 @@
-﻿<color_default>+<value=offense>% к урону в ближнем бою.
+﻿<color_default>+<value=offense>% урона в ближнем бою

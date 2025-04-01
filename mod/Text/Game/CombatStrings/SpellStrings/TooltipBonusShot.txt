@@ -1,1 +1,1 @@
-﻿<color_default>+1 выстрел.
+﻿<color_default>+1 выстрел

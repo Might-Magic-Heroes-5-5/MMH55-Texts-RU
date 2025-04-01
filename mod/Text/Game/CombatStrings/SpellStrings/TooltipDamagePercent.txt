@@ -1,1 +1,1 @@
-﻿<color_default>+<value=damage>% к урону.
+﻿<color_default>+<value=damage>% урона

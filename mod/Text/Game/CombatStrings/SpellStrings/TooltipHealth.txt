@@ -1,1 +1,1 @@
-﻿<color_default>+<value=health> ед. к «Здоровью».
+﻿<color_default>+<value=health> к "Здоровью"

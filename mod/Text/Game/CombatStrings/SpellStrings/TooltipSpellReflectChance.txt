@@ -1,1 +1,1 @@
-﻿<color_default><value=chance>% шанс отразить вражеское заклинание.
+﻿<color_default><value=chance>% шанс отразить заклинание противника

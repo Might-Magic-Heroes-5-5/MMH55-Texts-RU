@@ -1,1 +1,1 @@
-﻿Армия и характеристики<hotkey=hero_attributes>
+﻿Армия и Характеристики<hotkey=hero_attributes>

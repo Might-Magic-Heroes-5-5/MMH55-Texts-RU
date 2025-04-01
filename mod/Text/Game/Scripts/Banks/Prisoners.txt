@@ -1,1 +1,1 @@
-﻿<color=yellow>Вы освободили пленных в количестве <value=num> сущ. (<value=upgtype>).
+﻿<color=yellow>Вы освободили пленных в количестве <value=num> сущ. (<value=level> уровня).

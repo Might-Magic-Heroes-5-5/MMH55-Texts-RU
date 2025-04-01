@@ -1,1 +1,1 @@
-﻿<color_default>-<value=initiative>% «Инициативы».
+﻿<color_default>-<value=initiative>% к «Инициативе»

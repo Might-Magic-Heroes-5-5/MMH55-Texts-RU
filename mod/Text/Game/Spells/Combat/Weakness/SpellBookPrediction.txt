@@ -1,1 +1,1 @@
-﻿Снижает «Нападение» на <value=enchant>, длительность: <value=duration> ходов.
+﻿Снижает нападение на <value=enchant>, длительность: <value=duration> ходов.

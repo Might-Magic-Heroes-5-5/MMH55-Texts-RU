@@ -1,1 +1,1 @@
-﻿Длительность заклинания: <value=duration> хода. Урон изменён на <value=enchant>%.
+﻿Длительность заклинания: <value=duration> хода. Урон изменен на <value=enchant>%.

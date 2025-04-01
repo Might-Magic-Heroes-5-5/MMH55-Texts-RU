@@ -1,1 +1,1 @@
-﻿<br><color_default>+<value=luck> ед. к «Удаче».
+﻿<br><color_default>+<value=luck> к "Удаче"

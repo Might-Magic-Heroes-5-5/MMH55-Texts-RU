@@ -1,1 +1,1 @@
-﻿<value=target_color>Эффект страха:<body_bright> <value=target> оцепенели. Очередь хода задерживается на <value=damage>% на ATB шкале.
+﻿<value=target_color>«Эффект страха». <body_bright> <value=target> оцепенели.

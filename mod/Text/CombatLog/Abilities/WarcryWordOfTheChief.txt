@@ -1,1 +1,1 @@
-﻿<value=source_color><value=source> наносит <value=damage> ед. урона (цель: <value=target>) и замедляет свой ход.
+﻿<value=source_color><value=source> наносит <value=damage> ед. урона (цель: <value=target>) и замедляет ход.

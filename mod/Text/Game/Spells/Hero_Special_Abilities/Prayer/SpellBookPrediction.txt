@@ -1,1 +1,1 @@
-﻿Увеличивает «Инициативу» на <value=initiative_bonus>%, «Нападение», «Защиту» и «Боевой дух» на <value=enchant>, длительность: <value=duration> ходов.
+﻿Увеличивает инициативу на <value=initiative_bonus>%, боевой дух, нападение и защиту на <value=enchant>, длительность: <value=duration> ходов.

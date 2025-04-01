@@ -1,1 +1,1 @@
-﻿<br><color_default>Остановка ATB шкалы.
+﻿<br><color_default>АТБ не загружается

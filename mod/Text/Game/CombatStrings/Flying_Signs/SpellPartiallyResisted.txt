@@ -1,1 +1,1 @@
-﻿<combat_flying_signs><color_negative>Частично сопротивляется!
+﻿<combat_flying_signs><color_negative>Частично отражено!

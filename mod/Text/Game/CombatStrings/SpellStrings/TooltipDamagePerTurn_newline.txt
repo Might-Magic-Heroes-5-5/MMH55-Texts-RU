@@ -1,1 +1,1 @@
-﻿<br><color_default>Страдают. <value=damage> ед. урона за ход.
+﻿<br><color_default>получает <value=damage> урона за ход

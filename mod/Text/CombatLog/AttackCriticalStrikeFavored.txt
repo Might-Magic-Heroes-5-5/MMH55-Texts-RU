@@ -1,1 +1,1 @@
-﻿<value=source_color><value=source> наносит «Критический Удар» (цель: заклятый враг – <value=target>).<value=font> Урон <value=damage> ед. (погибло <value=dead> сущ.).
+﻿<value=source_color><value=source> наносят «Критический Удар» (цель: заклятый враг – <value=target>).<value=font> Урон <value=damage> ед. (погибло <value=dead> сущ.).

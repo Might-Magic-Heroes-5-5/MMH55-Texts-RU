@@ -1,1 +1,1 @@
-﻿<br><color_default>+<value=morale> ед. к «Боевому духу».
+﻿<br><color_default>+<value=morale> к «Боевому духу»
