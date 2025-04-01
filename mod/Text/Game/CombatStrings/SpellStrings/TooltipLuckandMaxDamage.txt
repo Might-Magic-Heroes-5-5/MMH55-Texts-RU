@@ -1,1 +1,1 @@
-﻿<color_default>+<value=luck> к "Удаче", +<value=damage> к макс. урону
+﻿<color_default>+<value=luck> ед. к «Удаче», +<value=damage> ед. к максимальному урону.

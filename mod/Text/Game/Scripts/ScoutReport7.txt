@@ -1,12 +1,12 @@
 ﻿<value=message>
 
-<value=qty1> <value=stack1>s
-<value=qty2> <value=stack2>s
-<value=qty3> <value=stack3>s
-<value=qty4> <value=stack4>s
-<value=qty5> <value=stack5>s
-<value=qty6> <value=stack6>s
-<value=qty7> <value=stack7>s
+<value=qty1> <value=stack1>
+<value=qty2> <value=stack2>
+<value=qty3> <value=stack3>
+<value=qty4> <value=stack4>
+<value=qty5> <value=stack5>
+<value=qty6> <value=stack6>
+<value=qty7> <value=stack7>
 
 -------------------------------------------------------------------------------
 

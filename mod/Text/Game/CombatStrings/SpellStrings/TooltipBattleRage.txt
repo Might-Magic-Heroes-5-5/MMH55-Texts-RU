@@ -1,1 +1,1 @@
-﻿<br><color_default>+<value=attack> к «Нападению», +<value=init> к «Инициативе»
+﻿<br><color_default>+<value=attack> ед. к «Нападению», +<value=init> ед. к «Инициативе».

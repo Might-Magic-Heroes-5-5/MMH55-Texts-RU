@@ -1,1 +1,1 @@
-﻿<color_default>+<value=attack> к «Нападению», +<value=defense> к «Защите»
+﻿<color_default>+<value=attack> ед. к «Нападению», +<value=defense> ед. к «Защите».

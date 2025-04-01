@@ -1,1 +1,1 @@
-﻿Заморожено<br><color_default>ATB не загружается
+﻿Заморозка<br><color_default>Остановка ATB шкалы.

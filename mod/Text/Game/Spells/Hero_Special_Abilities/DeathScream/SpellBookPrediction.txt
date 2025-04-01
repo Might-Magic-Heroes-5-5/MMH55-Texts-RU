@@ -1,1 +1,1 @@
-﻿Снижает инициативу на <value=initiative_bonus>%, боевой дух и удачу на <value=enchant>, длительность: <value=duration> ходов.
+﻿Снижает «Инициативу» на <value=initiative_bonus>%, «Боевой дух» и «Удачу» на <value=enchant>, длительность: <value=duration> ходов.

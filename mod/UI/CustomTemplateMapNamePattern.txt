@@ -1,1 +1,1 @@
-﻿ГММ55 Случайная Карта <value=number>
+﻿MMH55 Случайная Карта <value=number>

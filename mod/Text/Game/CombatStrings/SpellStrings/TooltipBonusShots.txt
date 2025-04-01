@@ -1,1 +1,1 @@
-﻿<color_default>+<value=shots> выстрелов
+﻿<color_default>+<value=shots> ед. к выстрелам.
