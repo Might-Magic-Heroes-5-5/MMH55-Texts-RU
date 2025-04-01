@@ -1,1 +1,1 @@
-﻿Спектральный дракон жизни: <value=health><br>Урон: <value=min_damage> - <value=max_damage>.
+﻿«Здоровье» спектрального дракона: <value=health> ед. «Жизни».<br>Урон: <value=min_damage> — <value=max_damage>.

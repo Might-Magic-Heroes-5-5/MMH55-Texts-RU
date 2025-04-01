@@ -1,1 +1,1 @@
-﻿<color_default>+<value=damage>% урона от «Рыцарского разбега»
+﻿<color_default>+<value=damage>% к урону от способности «Рыцарский разбег».

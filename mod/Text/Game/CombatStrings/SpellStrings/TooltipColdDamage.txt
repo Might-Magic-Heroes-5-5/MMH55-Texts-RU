@@ -1,1 +1,1 @@
-﻿<color_default>+<value=damage>% урона водой
+﻿<color_default>+<value=damage>% к урону от стихии воды.

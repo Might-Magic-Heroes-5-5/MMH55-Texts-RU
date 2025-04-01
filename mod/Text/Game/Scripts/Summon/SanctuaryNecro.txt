@@ -1,1 +1,1 @@
-﻿<color=yellow>Вы нашли несколько тел в склепе под святилищем! (+<value=num> <value=upgtype>s)
+﻿<color=yellow>Вы нашли несколько тел в склепе под святилищем! (+<value=num> <value=upgtype>)
