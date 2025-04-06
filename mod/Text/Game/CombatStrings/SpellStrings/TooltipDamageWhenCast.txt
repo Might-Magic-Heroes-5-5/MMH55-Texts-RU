@@ -1,1 +1,1 @@
-﻿<color_default><value=damage> урона при сотворении заклинаний
+﻿<color_default><value=damage> ед. урона при накладывании заклинания.
