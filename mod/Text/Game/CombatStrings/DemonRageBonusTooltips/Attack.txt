@@ -1,1 +1,1 @@
-﻿+<value=value> к «Нападению».
+﻿<color_default>+<value=value> к «Нападению» 

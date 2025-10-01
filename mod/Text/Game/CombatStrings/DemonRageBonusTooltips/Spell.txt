@@ -1,1 +1,1 @@
-﻿<value=value>.
+﻿<color_default><value=value> 

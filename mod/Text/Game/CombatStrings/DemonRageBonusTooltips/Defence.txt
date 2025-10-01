@@ -1,1 +1,1 @@
-﻿+<value=value> к «Защите».
+﻿<color_default>+<value=value> к «Защите» 

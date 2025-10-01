@@ -1,1 +1,1 @@
-﻿+<value=value> к Урону.
+﻿<color_default>+<value=value> к Урону 
