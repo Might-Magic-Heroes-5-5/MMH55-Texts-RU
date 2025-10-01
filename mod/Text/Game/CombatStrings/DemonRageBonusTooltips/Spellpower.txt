@@ -1,1 +1,1 @@
-﻿+<value=value> к «Колдовству».
+﻿<color_default>x<value=value> к «Колдовству» 

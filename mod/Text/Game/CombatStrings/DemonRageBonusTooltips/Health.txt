@@ -1,1 +1,1 @@
-﻿+<value=value> ед. «Жизни».
+﻿<color_default>+<value=value> ед. «Жизни» 
